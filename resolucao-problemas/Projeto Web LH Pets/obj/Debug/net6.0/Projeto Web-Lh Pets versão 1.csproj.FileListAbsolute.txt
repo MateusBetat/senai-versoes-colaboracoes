@@ -1,0 +1,92 @@
+C:\Users\Suporte\Desktop\Projeto Web-Lh Pets versão 1\obj\Debug\net6.0\Projeto Web-Lh Pets versão 1.csproj.AssemblyReference.cache
+C:\Users\Suporte\Desktop\Projeto Web-Lh Pets versão 1\obj\Debug\net6.0\Projeto Web-Lh Pets versão 1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Suporte\Desktop\Projeto Web-Lh Pets versão 1\obj\Debug\net6.0\Projeto Web-Lh Pets versão 1.AssemblyInfoInputs.cache
+C:\Users\Suporte\Desktop\Projeto Web-Lh Pets versão 1\obj\Debug\net6.0\Projeto Web-Lh Pets versão 1.AssemblyInfo.cs
+C:\Users\Suporte\Desktop\Projeto Web-Lh Pets versão 1\obj\Debug\net6.0\Projeto Web-Lh Pets versão 1.csproj.CoreCompileInputs.cache
+C:\Users\Suporte\Desktop\Projeto Web-Lh Pets versão 1\obj\Debug\net6.0\Projeto Web-Lh Pets versão 1.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Suporte\Desktop\Projeto Web-Lh Pets versão 1\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Suporte\Desktop\Projeto Web-Lh Pets versão 1\bin\Debug\net6.0\appsettings.json
+C:\Users\Suporte\Desktop\Projeto Web-Lh Pets versão 1\bin\Debug\net6.0\Projeto Web-Lh Pets versão 1.staticwebassets.runtime.json
+C:\Users\Suporte\Desktop\Projeto Web-Lh Pets versão 1\bin\Debug\net6.0\Projeto Web-Lh Pets versão 1.exe
+C:\Users\Suporte\Desktop\Projeto Web-Lh Pets versão 1\bin\Debug\net6.0\Projeto Web-Lh Pets versão 1.deps.json
+C:\Users\Suporte\Desktop\Projeto Web-Lh Pets versão 1\bin\Debug\net6.0\Projeto Web-Lh Pets versão 1.runtimeconfig.json
+C:\Users\Suporte\Desktop\Projeto Web-Lh Pets versão 1\bin\Debug\net6.0\Projeto Web-Lh Pets versão 1.dll
+C:\Users\Suporte\Desktop\Projeto Web-Lh Pets versão 1\bin\Debug\net6.0\Projeto Web-Lh Pets versão 1.pdb
+C:\Users\Suporte\Desktop\Projeto Web-Lh Pets versão 1\bin\Debug\net6.0\System.Data.SqlClient.dll
+C:\Users\Suporte\Desktop\Projeto Web-Lh Pets versão 1\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+C:\Users\Suporte\Desktop\Projeto Web-Lh Pets versão 1\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+C:\Users\Suporte\Desktop\Projeto Web-Lh Pets versão 1\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+C:\Users\Suporte\Desktop\Projeto Web-Lh Pets versão 1\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Suporte\Desktop\Projeto Web-Lh Pets versão 1\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Suporte\Desktop\Projeto Web-Lh Pets versão 1\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Suporte\Desktop\Projeto Web-Lh Pets versão 1\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Suporte\Desktop\Projeto Web-Lh Pets versão 1\obj\Debug\net6.0\scopedcss\bundle\Projeto Web-Lh Pets versão 1.styles.css
+C:\Users\Suporte\Desktop\Projeto Web-Lh Pets versão 1\obj\Debug\net6.0\Projeto Web-Lh Pets versão 1.csproj.CopyComplete
+C:\Users\Suporte\Desktop\Projeto Web-Lh Pets versão 1\obj\Debug\net6.0\Projeto Web-Lh Pets versão 1.dll
+C:\Users\Suporte\Desktop\Projeto Web-Lh Pets versão 1\obj\Debug\net6.0\refint\Projeto Web-Lh Pets versão 1.dll
+C:\Users\Suporte\Desktop\Projeto Web-Lh Pets versão 1\obj\Debug\net6.0\Projeto Web-Lh Pets versão 1.pdb
+C:\Users\Suporte\Desktop\Projeto Web-Lh Pets versão 1\obj\Debug\net6.0\Projeto Web-Lh Pets versão 1.genruntimeconfig.cache
+C:\Users\Suporte\Desktop\Projeto Web-Lh Pets versão 1\obj\Debug\net6.0\ref\Projeto Web-Lh Pets versão 1.dll
+C:\Users\Suporte\Desktop\Projeto Web-Lh Pets versão 1 - Gabarito Video\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Suporte\Desktop\Projeto Web-Lh Pets versão 1 - Gabarito Video\bin\Debug\net6.0\appsettings.json
+C:\Users\Suporte\Desktop\Projeto Web-Lh Pets versão 1 - Gabarito Video\bin\Debug\net6.0\Projeto Web-Lh Pets versão 1.staticwebassets.runtime.json
+C:\Users\Suporte\Desktop\Projeto Web-Lh Pets versão 1 - Gabarito Video\bin\Debug\net6.0\Projeto Web-Lh Pets versão 1.exe
+C:\Users\Suporte\Desktop\Projeto Web-Lh Pets versão 1 - Gabarito Video\bin\Debug\net6.0\Projeto Web-Lh Pets versão 1.deps.json
+C:\Users\Suporte\Desktop\Projeto Web-Lh Pets versão 1 - Gabarito Video\bin\Debug\net6.0\Projeto Web-Lh Pets versão 1.runtimeconfig.json
+C:\Users\Suporte\Desktop\Projeto Web-Lh Pets versão 1 - Gabarito Video\bin\Debug\net6.0\Projeto Web-Lh Pets versão 1.dll
+C:\Users\Suporte\Desktop\Projeto Web-Lh Pets versão 1 - Gabarito Video\bin\Debug\net6.0\Projeto Web-Lh Pets versão 1.pdb
+C:\Users\Suporte\Desktop\Projeto Web-Lh Pets versão 1 - Gabarito Video\bin\Debug\net6.0\System.Data.SqlClient.dll
+C:\Users\Suporte\Desktop\Projeto Web-Lh Pets versão 1 - Gabarito Video\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+C:\Users\Suporte\Desktop\Projeto Web-Lh Pets versão 1 - Gabarito Video\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+C:\Users\Suporte\Desktop\Projeto Web-Lh Pets versão 1 - Gabarito Video\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+C:\Users\Suporte\Desktop\Projeto Web-Lh Pets versão 1 - Gabarito Video\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Suporte\Desktop\Projeto Web-Lh Pets versão 1 - Gabarito Video\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Suporte\Desktop\Projeto Web-Lh Pets versão 1 - Gabarito Video\obj\Debug\net6.0\Projeto Web-Lh Pets versão 1.csproj.AssemblyReference.cache
+C:\Users\Suporte\Desktop\Projeto Web-Lh Pets versão 1 - Gabarito Video\obj\Debug\net6.0\Projeto Web-Lh Pets versão 1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Suporte\Desktop\Projeto Web-Lh Pets versão 1 - Gabarito Video\obj\Debug\net6.0\Projeto Web-Lh Pets versão 1.AssemblyInfoInputs.cache
+C:\Users\Suporte\Desktop\Projeto Web-Lh Pets versão 1 - Gabarito Video\obj\Debug\net6.0\Projeto Web-Lh Pets versão 1.AssemblyInfo.cs
+C:\Users\Suporte\Desktop\Projeto Web-Lh Pets versão 1 - Gabarito Video\obj\Debug\net6.0\Projeto Web-Lh Pets versão 1.csproj.CoreCompileInputs.cache
+C:\Users\Suporte\Desktop\Projeto Web-Lh Pets versão 1 - Gabarito Video\obj\Debug\net6.0\Projeto Web-Lh Pets versão 1.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Suporte\Desktop\Projeto Web-Lh Pets versão 1 - Gabarito Video\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Suporte\Desktop\Projeto Web-Lh Pets versão 1 - Gabarito Video\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Suporte\Desktop\Projeto Web-Lh Pets versão 1 - Gabarito Video\obj\Debug\net6.0\scopedcss\bundle\Projeto Web-Lh Pets versão 1.styles.css
+C:\Users\Suporte\Desktop\Projeto Web-Lh Pets versão 1 - Gabarito Video\obj\Debug\net6.0\Projeto Web-Lh Pets versão 1.csproj.CopyComplete
+C:\Users\Suporte\Desktop\Projeto Web-Lh Pets versão 1 - Gabarito Video\obj\Debug\net6.0\Projeto Web-Lh Pets versão 1.dll
+C:\Users\Suporte\Desktop\Projeto Web-Lh Pets versão 1 - Gabarito Video\obj\Debug\net6.0\refint\Projeto Web-Lh Pets versão 1.dll
+C:\Users\Suporte\Desktop\Projeto Web-Lh Pets versão 1 - Gabarito Video\obj\Debug\net6.0\Projeto Web-Lh Pets versão 1.pdb
+C:\Users\Suporte\Desktop\Projeto Web-Lh Pets versão 1 - Gabarito Video\obj\Debug\net6.0\Projeto Web-Lh Pets versão 1.genruntimeconfig.cache
+C:\Users\Suporte\Desktop\Projeto Web-Lh Pets versão 1 - Gabarito Video\obj\Debug\net6.0\ref\Projeto Web-Lh Pets versão 1.dll
+C:\Users\Mateus\Desktop\Web_LH Pets\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Mateus\Desktop\Web_LH Pets\bin\Debug\net6.0\appsettings.json
+C:\Users\Mateus\Desktop\Web_LH Pets\bin\Debug\net6.0\Projeto Web-Lh Pets versão 1.staticwebassets.runtime.json
+C:\Users\Mateus\Desktop\Web_LH Pets\bin\Debug\net6.0\Projeto Web-Lh Pets versão 1.exe
+C:\Users\Mateus\Desktop\Web_LH Pets\bin\Debug\net6.0\Projeto Web-Lh Pets versão 1.deps.json
+C:\Users\Mateus\Desktop\Web_LH Pets\bin\Debug\net6.0\Projeto Web-Lh Pets versão 1.runtimeconfig.json
+C:\Users\Mateus\Desktop\Web_LH Pets\bin\Debug\net6.0\Projeto Web-Lh Pets versão 1.dll
+C:\Users\Mateus\Desktop\Web_LH Pets\bin\Debug\net6.0\Projeto Web-Lh Pets versão 1.pdb
+C:\Users\Mateus\Desktop\Web_LH Pets\bin\Debug\net6.0\System.Data.SqlClient.dll
+C:\Users\Mateus\Desktop\Web_LH Pets\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+C:\Users\Mateus\Desktop\Web_LH Pets\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+C:\Users\Mateus\Desktop\Web_LH Pets\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+C:\Users\Mateus\Desktop\Web_LH Pets\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Mateus\Desktop\Web_LH Pets\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Mateus\Desktop\Web_LH Pets\obj\Debug\net6.0\Projeto Web-Lh Pets versão 1.csproj.AssemblyReference.cache
+C:\Users\Mateus\Desktop\Web_LH Pets\obj\Debug\net6.0\Projeto Web-Lh Pets versão 1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mateus\Desktop\Web_LH Pets\obj\Debug\net6.0\Projeto Web-Lh Pets versão 1.AssemblyInfoInputs.cache
+C:\Users\Mateus\Desktop\Web_LH Pets\obj\Debug\net6.0\Projeto Web-Lh Pets versão 1.AssemblyInfo.cs
+C:\Users\Mateus\Desktop\Web_LH Pets\obj\Debug\net6.0\Projeto Web-Lh Pets versão 1.csproj.CoreCompileInputs.cache
+C:\Users\Mateus\Desktop\Web_LH Pets\obj\Debug\net6.0\Projeto Web-Lh Pets versão 1.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Mateus\Desktop\Web_LH Pets\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Mateus\Desktop\Web_LH Pets\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Mateus\Desktop\Web_LH Pets\obj\Debug\net6.0\staticwebassets\msbuild.Projeto Web-Lh Pets versão 1.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Mateus\Desktop\Web_LH Pets\obj\Debug\net6.0\staticwebassets\msbuild.build.Projeto Web-Lh Pets versão 1.props
+C:\Users\Mateus\Desktop\Web_LH Pets\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Projeto Web-Lh Pets versão 1.props
+C:\Users\Mateus\Desktop\Web_LH Pets\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Projeto Web-Lh Pets versão 1.props
+C:\Users\Mateus\Desktop\Web_LH Pets\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\Mateus\Desktop\Web_LH Pets\obj\Debug\net6.0\scopedcss\bundle\Projeto Web-Lh Pets versão 1.styles.css
+C:\Users\Mateus\Desktop\Web_LH Pets\obj\Debug\net6.0\Projeto Web-Lh Pets versão 1.csproj.CopyComplete
+C:\Users\Mateus\Desktop\Web_LH Pets\obj\Debug\net6.0\Projeto Web-Lh Pets versão 1.dll
+C:\Users\Mateus\Desktop\Web_LH Pets\obj\Debug\net6.0\refint\Projeto Web-Lh Pets versão 1.dll
+C:\Users\Mateus\Desktop\Web_LH Pets\obj\Debug\net6.0\Projeto Web-Lh Pets versão 1.pdb
+C:\Users\Mateus\Desktop\Web_LH Pets\obj\Debug\net6.0\Projeto Web-Lh Pets versão 1.genruntimeconfig.cache
+C:\Users\Mateus\Desktop\Web_LH Pets\obj\Debug\net6.0\ref\Projeto Web-Lh Pets versão 1.dll
