@@ -8563,11 +8563,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Mateus\\Desktop\\Dev API\\Exo.WebApi\\Exo.WebApi.csproj",
+      "projectUniqueName": "C:\\Users\\Mateus\\Documents\\GitHub\\senai-versoes-colaboracoes\\resolucao-problemas\\Dev API\\Exo.WebApi\\Exo.WebApi.csproj",
       "projectName": "Exo.WebApi",
-      "projectPath": "C:\\Users\\Mateus\\Desktop\\Dev API\\Exo.WebApi\\Exo.WebApi.csproj",
+      "projectPath": "C:\\Users\\Mateus\\Documents\\GitHub\\senai-versoes-colaboracoes\\resolucao-problemas\\Dev API\\Exo.WebApi\\Exo.WebApi.csproj",
       "packagesPath": "C:\\Users\\Mateus\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Mateus\\Desktop\\Dev API\\Exo.WebApi\\obj\\",
+      "outputPath": "C:\\Users\\Mateus\\Documents\\GitHub\\senai-versoes-colaboracoes\\resolucao-problemas\\Dev API\\Exo.WebApi\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Mateus\\AppData\\Roaming\\NuGet\\NuGet.Config"
